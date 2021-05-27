@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EncryptedData Type="http://www.w3.org/2001/04/xmlenc#Element" xmlns="http://www.w3.org/2001/04/xmlenc#">
+  <EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc" />
+  <CipherData>
+    <CipherValue>/lWW3dTQNZ+QNAxKnuVdZIIKLHWIhLXhh7p7LS3Si3gpiHai20VtE2EaO33MjHNPYLm6OgwrLAwyh1Dcvhjzx6DWSZnrtNrxi5sMmuzYn0xrbD8TKbKijsBsl6CNpQfI</CipherValue>
+  </CipherData>
+</EncryptedData>
